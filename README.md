@@ -72,7 +72,7 @@ $db_select = mysqli_select_db($conn, DB_NAME) or die(mysqli_error()); //SElectin
 
 
 ## Follow Me on
-1. LinkedIn - [vijaythapa](https://www.linkedin.com/in/mohamed-samak-594b65231/ "Mohamed Samak on LinkedIn")
-2. Instagram - [@vijaythapa.code](https://www.instagram.com/mohamed.samak.5/ "Mohamed Samak on Instagram")
-3. Facebook - [@thevijaythapa](https://www.facebook.com/mohamed.samak.5/ "Mohamed Samak on Facebook")
-5. Twitter - [@thevijaythapa](https://twitter.com/Mohamed12392431 "Mohamed Samak on Twitter")
+1. LinkedIn - (https://www.linkedin.com/in/mohamed-samak-594b65231/ "Mohamed Samak on LinkedIn")
+2. Instagram - (https://www.instagram.com/mohamed.samak.5/ "Mohamed Samak on Instagram")
+3. Facebook - (https://www.facebook.com/mohamed.samak.5/ "Mohamed Samak on Facebook")
+5. Twitter - (https://twitter.com/Mohamed12392431 "Mohamed Samak on Twitter")
